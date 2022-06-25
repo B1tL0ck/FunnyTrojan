@@ -1,2 +1,3 @@
-# FunnyTrojan
-A funny Windows trojan written in C# and batch
+# Funny C# Trojan
+
+<div text-align="center"><img src="Emoji.png"></div>
