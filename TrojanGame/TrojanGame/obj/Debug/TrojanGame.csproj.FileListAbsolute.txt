@@ -1,0 +1,13 @@
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\bin\Debug\TrojanGame.exe.config
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\bin\Debug\TrojanGame.exe
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\bin\Debug\TrojanGame.pdb
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\TrojanGame.csproj.AssemblyReference.cache
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\TrojanGame.csproj.SuggestedBindingRedirects.cache
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\TrojanGame.Form1.resources
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\TrojanGame.Properties.Resources.resources
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\TrojanGame.csproj.GenerateResource.cache
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\TrojanGame.csproj.CoreCompileInputs.cache
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\TrojanGame.exe
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\TrojanGame.pdb
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\Interop.WMPLib.dll
+D:\ALTRO\programmazione\C#\Trojan\TrojanGame\TrojanGame\obj\Debug\TrojanGame.csproj.ResolveComReference.cache
