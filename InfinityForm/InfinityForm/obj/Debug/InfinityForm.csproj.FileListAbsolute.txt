@@ -1,0 +1,12 @@
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\bin\Debug\InfinityForm.exe.config
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\bin\Debug\InfinityForm.exe
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\bin\Debug\InfinityForm.pdb
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\obj\Debug\InfinityForm.csproj.AssemblyReference.cache
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\obj\Debug\InfinityForm.csproj.SuggestedBindingRedirects.cache
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\obj\Debug\InfinityForm.Form1.resources
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\obj\Debug\InfinityForm.Form2.resources
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\obj\Debug\InfinityForm.Properties.Resources.resources
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\obj\Debug\InfinityForm.csproj.GenerateResource.cache
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\obj\Debug\InfinityForm.csproj.CoreCompileInputs.cache
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\obj\Debug\InfinityForm.exe
+D:\ALTRO\programmazione\C#\Trojan\InfinityForm\InfinityForm\obj\Debug\InfinityForm.pdb

